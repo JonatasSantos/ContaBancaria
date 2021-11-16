@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ExercicioContaBancaria.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ExercicioContaBancaria.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ExercicioContaBancaria.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ExercicioContaBancaria.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ExercicioContaBancaria.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ref\ExercicioContaBancaria.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\bin\Debug\net5.0\ExercicioContaBancaria.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ref\ExercicioContaBancaria.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\ExercicioContaBancaria\ExercicioContaBancaria\obj\Debug\net5.0\ExercicioContaBancaria.genruntimeconfig.cache
