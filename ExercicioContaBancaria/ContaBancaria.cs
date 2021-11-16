@@ -4,22 +4,22 @@ namespace ExercicioContaBancaria
 {
     class ContaBancaria
     {
-        private int _nroconta;
-        public string Titular { get; private set; }
+        public int Numero { get; private set; }
+        public string Titular { get; set; }
         public double Saldo { get; private set; }
 
         public ContaBancaria(){}
 
         public ContaBancaria(int nroconta, string titular)
         {
-            _nroconta = nroconta;
+            Numero = nroconta;
             Titular = titular;
             Saldo = 0.0;
         }
 
         public ContaBancaria(int nroconta, string titular, double saldo)
         {
-            _nroconta = nroconta;
+            Numero = nroconta;
             Titular = titular;
             Saldo = saldo;
         }
@@ -31,12 +31,12 @@ namespace ExercicioContaBancaria
 
         public void Sacar(double valor)
         {
-            Saldo = (Saldo - 5.00) - valor;
+            Saldo -= valor + 5.0;
         }
 
         public override string ToString()
         {
-            return "Conta " + _nroconta
+            return "Conta " + Numero
                 + ", Titular: " + Titular
                 + ", Saldo: $ " + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
